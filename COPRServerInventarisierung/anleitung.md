@@ -3,6 +3,7 @@
 ## Allgemeine Informationen
 
 ### Die Server
+
 <img src="../img/serveransicht_komplett.JPEG" alt="image" width="64%">
 <img src="../img/serveransicht_beschriftung.JPEG" alt="image" width="30%">
 
@@ -15,9 +16,13 @@
   - Hauptschalter einschalten (1 = EIN | 0 = AUS)
   <br>
   <img src="../img/hauptschalter.jpg" alt="image" width="30%">
+  <br>
+
   - Hinten den Tischverteiler anschalten
   <br>
   <img src="../img/tischverteiler.JPEG" alt="image" width="30%">
+  <br>
+
   - Anschaltknopf betätigen
   <br>
   <img src="../img/anschaltknopf_aus.JPEG" alt="image" width="30%">
