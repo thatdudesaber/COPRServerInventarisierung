@@ -4,6 +4,7 @@
 
 ### Die Server
 
+oben HV02, unten HV01.  
 <img src="../img/serveransicht_komplett.JPEG" alt="image" width="64%">
 <img src="../img/serveransicht_beschriftung.JPEG" alt="image" width="30%">
 
@@ -18,7 +19,10 @@
 - RAM: 120GB DIMM-DDR3@1333MHz
 
 - Speicherplatz
-  - 
+  ...
+
+- Netzwerkverbindungen  
+<img src="../img/netzwerkverbindungen_HV01.jpg" alt="image">
 
 
 ### HV-O2
@@ -30,8 +34,11 @@
 
 - RAM: 144GB DIMM-DDR3@1333MHz
 
-- Speicherplatz
-  - 
+- Speicherplatz  
+<img src="../img/speicher_HV02.JPEG" alt="image" width="80%">
+
+- Netzwerkverbindungen
+<img src="../img/netzwerkverbindungen_HV02.JPEG" alt="image">
 
 
 ## Erste Schritte
@@ -52,11 +59,17 @@
   <img src="../img/tischverteiler.JPEG" alt="image" width="30%">
   <br>
 
-  - Anschaltknopf betätigen
+  - Anschaltknopf betätigen (zuerst HV01)
   <br>
   <img src="../img/anschaltknopf_aus.JPEG" alt="image" width="30%">
   <img src="../img/anschaltknopf_ein.JPEG" alt="image" width="30%">
   <br>
+  - die drei Kabel (VGA für Video, 2 USBs für Tastatur und Maus) anschließen
+  
+  - Warten, bis HV01 vollständig gebootet wurde (Windows Login Fenster)
+
+  - den selben Prozess mit HV02 durchmachen
+
   - Best Practices
     - Zuerst HV01 hochfahren, da HV02 auf diesen Server wartet
     - Beim Herunterfahren zuerst HV02 herunterfahren, da dieser Server von HV01 abhängig ist.
