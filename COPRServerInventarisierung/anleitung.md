@@ -30,6 +30,9 @@
 
 - RAM: 120GB DIMM-DDR3@1333MHz
 
+- Systeminformationen  
+<img src="../img/HV01_systeminformationen.jpg" alt="image" width="80%">
+
 - Festplatten  
 <img src="../img/HV01_festplatten.JPEG" alt="image" width="80%">
 
@@ -58,6 +61,9 @@
   - L3-Cache: 24MB
 
 - RAM: 144GB DIMM-DDR3@1333MHz
+
+- Systeminformationen  
+<img src="../img/HV02_systeminformationen.JPEG" alt="image" width="80%">
 
 - Festplatten  
 <img src="../img/HV02_festplatten.JPEG" alt="image" width="80%">
@@ -98,6 +104,12 @@
   - Warten, bis HV01 vollständig gebootet wurde (Windows Login Fenster)
 
   - den selben Prozess mit HV02 durchmachen
+
+## Startup Prozess
+
+ <img src="../img/bootup_1.JPG" alt="image" width="100%">  
+  <img src="../img/bootup_2.JPG" alt="image" width="100%">
+<video controls src="../img/bootup_3.MP4" title="Title"></video>
 
 ## Herunterfahren
   - Umgekehrte Reihenfolge als beim Hochfahren
